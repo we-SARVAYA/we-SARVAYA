@@ -49,10 +49,8 @@ Say goodbye to guesswork and hello to data-driven insights. At SARVAYA, we harne
 ### 4. Boundless Creativity, Endless Possibilities
 With SARVAYA, the sky's not the limit – it's just the beginning. Our team of creative visionaries is fueled by boundless imagination and a relentless drive to innovate.
 
-## Contact Us
-
-Ready to embark on this journey of transformation and digital excellence? Reach out to us today and let's make some digital magic together!
 <h3 align="left">Connect with me:</h3>
+Ready to embark on this journey of transformation and digital excellence? Reach out to us today and let's make some digital magic together!
 <p align="left">
 <a href="https://twitter.com/priyaanshisoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyaanshisoni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyanshisoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshisoni" height="30" width="40" /></a>
